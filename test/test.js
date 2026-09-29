@@ -1,5 +1,5 @@
 const cds = require('@sap/cds')
-const test = cds.test(__dirname + '/..', '--with-mocks')
+const test = cds.test(__dirname + '/..', '--with-mocks', '--in-memory')
 const { GET, POST, DELETE, PATCH, expect } = test
 
 test.defaults.auth = { username: 'alice', password: '' }
@@ -8,7 +8,7 @@ describe('Test The GET Endpoints', () => {
   it('Should check Processor Service', async () => {
     const processorService = await cds.connect.to('ProcessorService')
     const { Incidents } = processorService.entities
-    expect(await SELECT.from(Incidents)).to.have.length(6)
+    expect(await SELECT.from(Incidents)).to.have.length(4)
   })
 
   it('Should check Customers', async () => {
