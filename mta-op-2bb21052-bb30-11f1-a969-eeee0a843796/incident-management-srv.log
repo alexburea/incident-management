@@ -1,0 +1,274 @@
+#2026 09 28 11:32:40.566#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:31:51.888689] Added process: "web" (STDOUT, API)#
+#2026 09 28 11:32:40.566#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:31:51.897220] Created app with guid 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 (STDOUT, API)#
+#2026 09 28 11:32:40.566#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:31:51.985667] Updating process: "web" (STDOUT, API)#
+#2026 09 28 11:32:40.566#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:31:52.065408] Scaling process: "web" (STDOUT, API)#
+#2026 09 28 11:32:40.566#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:20.545388] Uploading app package for app with guid 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 (STDOUT, API)#
+#2026 09 28 11:32:40.566#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:20.730650] Updated app with guid 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+#2026 09 28 11:32:40.566#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:30.563563] Creating build for app with guid 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 (STDOUT, API)#
+#2026 09 28 11:32:40.566#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:31.224597] Downloading nodejs_buildpack... (STDOUT, STG)#
+#2026 09 28 11:32:40.566#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:31.264983] Downloaded nodejs_buildpack (STDOUT, STG)#
+#2026 09 28 11:32:40.566#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:31.265079] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance 7a1314e6-40c3-476e-86ca-b5117478744c (STDOUT, STG)#
+#2026 09 28 11:32:40.566#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:31.855591] Security group rules were updated (STDOUT, STG)#
+#2026 09 28 11:32:40.566#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:31.889085] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance 7a1314e6-40c3-476e-86ca-b5117478744c (STDOUT, STG)#
+#2026 09 28 11:32:40.566#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:32.459366] Downloading app package... (STDOUT, STG)#
+#2026 09 28 11:32:40.566#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:32.959245] Downloaded app package (3.5M) (STDOUT, STG)#
+#2026 09 28 11:32:40.566#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:33.082010] -----> Nodejs Buildpack version 1.9.4 (STDOUT, STG)#
+#2026 09 28 11:32:40.566#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:33.243370] -----> Bootstrapping python (STDOUT, STG)#
+#2026 09 28 11:32:40.566#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:33.243401] -----> Installing python 3.13.15 (STDOUT, STG)#
+#2026 09 28 11:32:40.566#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:33.243457] Copy [/tmp/buildpacks/5be6efbe8830cdb7/dependencies/6832464ec708e1392d482a6034aa2c94/python_3.13.15_linux_x64_cflinuxfs4_0c9cd9fd.tgz] (STDOUT, STG)#
+#2026 09 28 11:32:40.567#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:37.672574] -----> Installing binaries (STDOUT, STG)#
+#2026 09 28 11:32:40.567#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:37.672605] engines.node (package.json): ^24 (STDOUT, STG)#
+#2026 09 28 11:32:40.567#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:37.672610] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+#2026 09 28 11:32:40.567#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:37.672613] -----> Installing node 24.19.0 (STDOUT, STG)#
+#2026 09 28 11:32:40.567#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:37.672616] Copy [/tmp/buildpacks/5be6efbe8830cdb7/dependencies/cf9035c55d85610a9158faa009b7a7b5/node_24.19.0_linux_x64_cflinuxfs4_9ab26efa.tgz] (STDOUT, STG)#
+#2026 09 28 11:32:40.567#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:40.264862] Using default npm version: 11.17.0 (STDOUT, STG)#
+#2026 09 28 11:32:40.567#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:40.264906] -----> Installing yarn 1.22.22 (STDOUT, STG)#
+#2026 09 28 11:32:40.567#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41610#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:40.266535] Copy [/tmp/buildpacks/5be6efbe8830cdb7/dependencies/e4fe26756e9984a665478d350474fa2e/yarn_1.22.22_linux_noarch_any-stack_b6132b86.tgz] (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:40.692904] Installed yarn 1.22.22 (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:40.692935] -----> Creating runtime environment (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:40.694446] NODE_ENV=production (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:40.694654] NODE_HOME=/tmp/contents2509311452/deps/0/node (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:40.694679] NODE_MODULES_CACHE=true (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:40.694683] NODE_VERBOSE=false (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:40.694686] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:40.694689] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:40.694701] -----> Building dependencies (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:40.695083] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:40.695107] Rebuilding any native modules (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:41.454736] rebuilt dependencies successfully (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:41.456794] npm notice (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:41.456822] npm notice New major version of npm available! 11.17.0 -> 12.1.0 (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:41.456827] npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.1.0 (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:41.456834] npm notice To update run: npm install -g npm@12.1.0 (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:41.456838] npm notice (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:41.667057] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:42.339858] up to date in 583ms (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:42.340345] 30 packages are looking for funding (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:42.340385] run `npm fund` for details (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:43.028854] [31;1m**WARNING**[0m This app may not specify any way to start a node process (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:43.028886] See: https://docs.cloudfoundry.org/buildpacks/node/node-tips.html#start (STDOUT, STG)#
+#2026 09 28 11:32:50.554#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41621#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:43.040388] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+#2026 09 28 11:33:00.680#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41624#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:52.265618] Exit status 0 (STDOUT, STG)#
+#2026 09 28 11:33:00.680#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41624#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:52.265677] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+#2026 09 28 11:33:00.680#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41624#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:52.265738] Uploading droplet... (STDOUT, STG)#
+#2026 09 28 11:33:00.680#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41624#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:52.265850] Uploading build artifacts cache... (STDOUT, STG)#
+#2026 09 28 11:33:00.680#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41624#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:52.286032] Uploaded build artifacts cache (216B) (STDOUT, STG)#
+#2026 09 28 11:33:00.680#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41624#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:52.984827] Creating droplet for app with guid 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 (STDOUT, API)#
+#2026 09 28 11:33:00.680#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41624#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:55.053422] Uploaded droplet (60.1M) (STDOUT, STG)#
+#2026 09 28 11:33:00.680#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41624#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:55.079010] Uploading complete (STDOUT, STG)#
+#2026 09 28 11:33:00.680#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41624#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:55.823103] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance 7a1314e6-40c3-476e-86ca-b5117478744c (STDOUT, STG)#
+#2026 09 28 11:33:00.680#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41624#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:55.823149] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance 7a1314e6-40c3-476e-86ca-b5117478744c (STDOUT, STG)#
+#2026 09 28 11:33:00.680#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41624#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:55.879578] Staging complete for build 7a1314e6-40c3-476e-86ca-b5117478744c (STDOUT, API)#
+#2026 09 28 11:33:00.680#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41624#
+[PollStageAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:32:57.422603] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance 7a1314e6-40c3-476e-86ca-b5117478744c (STDOUT, STG)#
+#2026 09 28 11:33:10.739#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41634#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:00.744435] Updated app with guid 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 ({:droplet_guid=>"d72777c3-58a7-4bb6-824a-75f82e3f8c3e"}) (STDOUT, API)#
+#2026 09 28 11:33:10.739#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41634#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:00.891704] Creating revision for app with guid 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 (STDOUT, API)#
+#2026 09 28 11:33:10.739#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41634#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:00.935132] Starting app with guid 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 (STDOUT, API)#
+#2026 09 28 11:33:10.739#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41634#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:01.219738] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance 10b996a8-ca10-4252-5689-ed15 (STDOUT, CELL)#
+#2026 09 28 11:33:10.739#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41634#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:01.837444] Security group rules were updated (STDOUT, CELL)#
+#2026 09 28 11:33:10.739#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41634#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:01.872314] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance 10b996a8-ca10-4252-5689-ed15 (STDOUT, CELL)#
+#2026 09 28 11:33:10.739#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41634#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:02.252252] Downloading droplet... (STDOUT, CELL)#
+#2026 09 28 11:33:10.739#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41634#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:06.343174] Downloaded droplet (60.1M) (STDOUT, CELL)#
+#2026 09 28 11:33:10.739#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41634#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:06.343409] Starting health monitoring of container (STDOUT, CELL)#
+#2026 09 28 11:33:10.739#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41634#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:06.465162] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 09 28 11:33:10.739#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41634#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:06.724926] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 09 28 11:33:10.739#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41634#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:07.199817] npm error Missing script: "start" (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:10.739#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41634#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:07.199886] npm error (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:10.739#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41634#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:07.199891] npm error Did you mean one of these? (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:10.739#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41634#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:07.199894] npm error   npm star # Mark your favorite packages (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:10.739#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41634#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:07.199897] npm error   npm stars # View packages marked as favorites (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:10.739#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41634#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:07.199900] npm error (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:10.739#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41634#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:07.199906] npm error To see a list of scripts, run: (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:10.739#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41634#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:07.199908] npm error   npm run (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:10.739#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41634#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:07.201735] npm error A complete log of this run can be found in: /home/vcap/app/.npm/_logs/2026-09-28T11_33_06_831Z-debug-0.log (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:10.739#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41634#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:07.276902] Exit status 1 (STDOUT, APP/PROC/WEB)#
+#2026 09 28 11:33:20.882#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41644#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:13.282077] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance 10b996a8-ca10-4252-5689-ed15 (STDOUT, CELL)#
+#2026 09 28 11:33:20.882#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41644#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:13.282133] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance 10b996a8-ca10-4252-5689-ed15 (STDOUT, CELL)#
+#2026 09 28 11:33:20.882#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41644#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:13.294990] Process has crashed with type: "web" (STDOUT, API)#
+#2026 09 28 11:33:20.882#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41644#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:13.308185] App instance exited with guid 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 payload: {"instance"=>"10b996a8-ca10-4252-5689-ed15", "index"=>0, "cell_id"=>"c839c7b1-088e-41af-b9b7-66256aacd457", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 1", "crash_count"=>1, "crash_timestamp"=>1790595193261853699, "version"=>"547124d0-1e45-4c4f-be8a-84be727ef99b"} (STDOUT, API)#
+#2026 09 28 11:33:20.882#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41644#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:13.429995] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 creating container for instance 350ba03e-dbb2-4d4b-7f7b-807c (STDOUT, CELL)#
+#2026 09 28 11:33:20.882#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41644#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:13.495326] Exit status 137 (STDOUT, PROXY)#
+#2026 09 28 11:33:20.882#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41644#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:14.345207] Security group rules were updated (STDOUT, CELL)#
+#2026 09 28 11:33:20.882#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41644#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:14.417239] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully created container for instance 350ba03e-dbb2-4d4b-7f7b-807c (STDOUT, CELL)#
+#2026 09 28 11:33:20.882#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41644#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:14.591049] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance 10b996a8-ca10-4252-5689-ed15 (STDOUT, CELL)#
+#2026 09 28 11:33:20.882#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41644#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:14.738045] Downloading droplet... (STDOUT, CELL)#
+#2026 09 28 11:33:20.882#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41644#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:20.295833] Downloaded droplet (60.1M) (STDOUT, CELL)#
+#2026 09 28 11:33:20.882#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41644#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:20.296023] Starting health monitoring of container (STDOUT, CELL)#
+#2026 09 28 11:33:20.882#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41644#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:20.455871] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 09 28 11:33:20.882#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41644#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:20.754611] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 09 28 11:33:30.838#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41651#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:21.225187] npm error Missing script: "start" (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:30.838#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41651#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:21.225213] npm error (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:30.838#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41651#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:21.225217] npm error Did you mean one of these? (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:30.838#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41651#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:21.225221] npm error   npm star # Mark your favorite packages (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:30.838#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41651#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:21.225235] npm error   npm stars # View packages marked as favorites (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:30.838#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41651#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:21.225238] npm error (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:30.838#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41651#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:21.225240] npm error To see a list of scripts, run: (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:30.838#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41651#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:21.225244] npm error   npm run (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:30.838#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41651#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:21.227071] npm error A complete log of this run can be found in: /home/vcap/app/.npm/_logs/2026-09-28T11_33_20_870Z-debug-0.log (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:30.838#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41651#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:21.303004] Exit status 1 (STDOUT, APP/PROC/WEB)#
+#2026 09 28 11:33:30.838#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41651#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:28.014725] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 stopping instance 350ba03e-dbb2-4d4b-7f7b-807c (STDOUT, CELL)#
+#2026 09 28 11:33:30.838#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41651#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:28.014766] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 destroying container for instance 350ba03e-dbb2-4d4b-7f7b-807c (STDOUT, CELL)#
+#2026 09 28 11:33:30.838#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41651#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:28.023497] Process has crashed with type: "web" (STDOUT, API)#
+#2026 09 28 11:33:30.838#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41651#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:28.036657] App instance exited with guid 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 payload: {"instance"=>"350ba03e-dbb2-4d4b-7f7b-807c", "index"=>0, "cell_id"=>"d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 1", "crash_count"=>2, "crash_timestamp"=>1790595207994716712, "version"=>"547124d0-1e45-4c4f-be8a-84be727ef99b"} (STDOUT, API)#
+#2026 09 28 11:33:30.838#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41651#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:28.158672] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 creating container for instance 66dde28b-30ae-44dd-77a8-02b1 (STDOUT, CELL)#
+#2026 09 28 11:33:30.838#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41651#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:28.325510] Exit status 137 (STDOUT, PROXY)#
+#2026 09 28 11:33:30.838#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41651#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:28.926012] Security group rules were updated (STDOUT, CELL)#
+#2026 09 28 11:33:30.838#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41651#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:28.980536] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully created container for instance 66dde28b-30ae-44dd-77a8-02b1 (STDOUT, CELL)#
+#2026 09 28 11:33:30.838#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41651#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:30.087061] Downloading droplet... (STDOUT, CELL)#
+#2026 09 28 11:33:30.838#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41651#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:30.219789] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully destroyed container for instance 350ba03e-dbb2-4d4b-7f7b-807c (STDOUT, CELL)#
+#2026 09 28 11:33:41.303#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41661#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:35.275043] Downloaded droplet (60.1M) (STDOUT, CELL)#
+#2026 09 28 11:33:41.303#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41661#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:35.275466] Starting health monitoring of container (STDOUT, CELL)#
+#2026 09 28 11:33:41.303#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41661#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:35.454871] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 09 28 11:33:41.303#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41661#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:35.676750] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 09 28 11:33:41.303#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41661#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:36.174555] npm error Missing script: "start" (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:41.303#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41661#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:36.174579] npm error (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:41.303#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41661#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:36.174582] npm error Did you mean one of these? (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:41.303#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41661#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:36.174586] npm error   npm star # Mark your favorite packages (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:41.303#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41661#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:36.174588] npm error   npm stars # View packages marked as favorites (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:41.303#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41661#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:36.174596] npm error (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:41.303#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41661#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:36.174599] npm error To see a list of scripts, run: (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:41.303#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41661#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:36.174602] npm error   npm run (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:41.303#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41661#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:36.175622] npm error A complete log of this run can be found in: /home/vcap/app/.npm/_logs/2026-09-28T11_33_35_794Z-debug-0.log (STDERR, APP/PROC/WEB)#
+#2026 09 28 11:33:41.303#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41661#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:36.254530] Exit status 1 (STDOUT, APP/PROC/WEB)#
+#2026 09 28 11:33:51.016#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41664#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:42.937562] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 stopping instance 66dde28b-30ae-44dd-77a8-02b1 (STDOUT, CELL)#
+#2026 09 28 11:33:51.016#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41664#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:42.937599] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 destroying container for instance 66dde28b-30ae-44dd-77a8-02b1 (STDOUT, CELL)#
+#2026 09 28 11:33:51.016#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41664#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:42.955906] Process has crashed with type: "web" (STDOUT, API)#
+#2026 09 28 11:33:51.016#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41664#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:42.967619] App instance exited with guid 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 payload: {"instance"=>"66dde28b-30ae-44dd-77a8-02b1", "index"=>0, "cell_id"=>"77283d80-dfa7-40ba-ba4e-265aef112085", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 1", "crash_count"=>3, "crash_timestamp"=>1790595222933721174, "version"=>"547124d0-1e45-4c4f-be8a-84be727ef99b"} (STDOUT, API)#
+#2026 09 28 11:33:51.016#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41664#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:43.195531] Exit status 137 (STDOUT, PROXY)#
+#2026 09 28 11:33:51.016#Z#DEBUG#2bb21052-bb30-11f1-a969-eeee0a843796.incident-management-srv#flowable-async-job-executor-thread-41664#
+[PollStartAppStatusExecution] 28a8f8e3-575e-4bf1-b16b-3f7b028fba51 [2026-09-28T11:33:44.791314] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully destroyed container for instance 66dde28b-30ae-44dd-77a8-02b1 (STDOUT, CELL)#
